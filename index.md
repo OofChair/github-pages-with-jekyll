@@ -1,3 +1,3 @@
-# Welcome to my blog
+# just a github lab learning :D
 
-I'm glad you are here. I plan to talk about ...
+if you find this no you didnt
